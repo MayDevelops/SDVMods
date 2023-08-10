@@ -6,9 +6,9 @@ Mods for Stardew Valley Expanded
 <br>
 <br>
 ## Installation Guide
-[Wiki - General Installation Page that I don't think is that helpful](https://github.com/FlashShifter/StardewValleyExpanded/wiki/Install-guide)
-<br>
 [Wiki - Windows Installation](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows)
+<br>
+[Wiki - MacOs Installation](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Mac)
 <br>
 <br>
 ## To Extract
