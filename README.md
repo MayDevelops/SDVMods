@@ -56,10 +56,3 @@ Verify that your Mods folder is located in the same location. If not, update the
 21. [Community Center Helper](https://www.nexusmods.com/stardewvalley/mods/6893)
 22. [Horse Overhaul - Thin - Faster - Saddle Bags - Friendship](https://www.nexusmods.com/stardewvalley/mods/7911)
 23. [Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)
-24. [Stardew Valley Anime Mods](https://www.nexusmods.com/stardewvalley/mods/1839) 
-<details>
-<summary> Anime mod is annoying, read to install </summary>
-For those who are still confused to install this mod
-1. Extract this mod, Copy the XNB files inside the ZIP,  move it to your stardew valley files/Content/Portait, Replace the original XNB with Oho Davi Portrait XNB Files
-2. Extract Portrait Anime Mods OhoDavi 1.5-1839-1-5-1623159175 into your mods folder and its done
-</details>
