@@ -6,6 +6,8 @@ Mods for Stardew Valley Expanded
 <br>
 <br>
 ## Installation Guide
+&emsp; When it tells you to install SMAPI and run it for initialization, SMAPI is the first mod referenced on the Installed Mods section.
+<br>
 [Wiki - Windows Installation](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Windows)
 <br>
 [Wiki - MacOs Installation](https://stardewvalleywiki.com/Modding:Installing_SMAPI_on_Mac)
@@ -31,8 +33,33 @@ Verify that your Mods folder is located in the same location. If not, update the
 10. [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348?tab=files)
 <br><br>
 ### &emsp;User Choice Mods
-1. []()
-2. []()
-3. []()
-4. []()
-5. []()
+1. [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
+2. [Chests Anywhere (Needed for setting directional procedures in Automate)](https://www.nexusmods.com/stardewvalley/mods/518)
+3. [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+4. [Stardew Hack (Needed for Wear More Rings)](https://www.nexusmods.com/stardewvalley/mods/3213)
+5. [Wear More Rings](https://www.nexusmods.com/stardewvalley/mods/3214)
+6. [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+7. [Better Aristan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
+8. [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
+9. [Seasonal Outfits For SVE (Vanilla Style)](https://www.nexusmods.com/stardewvalley/mods/5975)
+10. [Seasonal Outfits - Slighty Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)
+11. [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+12. [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+13. [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+14. [Elle's New Barn Animals](https://www.nexusmods.com/stardewvalley/mods/3167)
+15. [Elle's New Coop Animals](https://www.nexusmods.com/stardewvalley/mods/3168)
+16. [Elle's New Horses](https://www.nexusmods.com/stardewvalley/mods/3169)
+17. [No Fence Decay](https://www.nexusmods.com/stardewvalley/mods/1180)
+18. [Spouses React To Player Death](https://www.nexusmods.com/stardewvalley/mods/7493)
+19. [Tool Upgrade Delivery Service](https://www.nexusmods.com/stardewvalley/mods/2938)
+20. [FETK Stardew Valley Toolkit (Needed for Tool Upgrade Delivery Service)](https://www.nexusmods.com/stardewvalley/mods/4403)
+21. [Community Center Helper](https://www.nexusmods.com/stardewvalley/mods/6893)
+22. [Horse Overhaul - Thin - Faster - Saddle Bags - Friendship](https://www.nexusmods.com/stardewvalley/mods/7911)
+23. [Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)
+24. [Stardew Valley Anime Mods](https://www.nexusmods.com/stardewvalley/mods/1839) 
+<details>
+<summary> Anime mod is annoying, read to install </summary>
+For those who are still confused to install this mod
+1. Extract this mod, Copy the XNB files inside the ZIP,  move it to your stardew valley files/Content/Portait, Replace the original XNB with Oho Davi Portrait XNB Files
+2. Extract Portrait Anime Mods OhoDavi 1.5-1839-1-5-1623159175 into your mods folder and its done
+</details>
